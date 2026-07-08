@@ -203,5 +203,4 @@ Power BI Service Deployment
 Viswanathan P
 B.Tech Artificial Intelligence and Data Science
 
-💼 LinkedIn: Add your LinkedIn profile
-💻 GitHub: Add your GitHub profile
+💼 LinkedIn: https://www.linkedin.com/in/viswa477/
